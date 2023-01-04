@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8f9ed1,100:d4938b&_&height=200&section=header)
 
 # Hi, I`m Jeongseon Lee.
 만화를 전공하고 디자인 실무를 했습니다. 개발자가 적성에 맞을 것 같아 주변 개발자 지인들에게 자문을 구하고, **KDT 과정**에 참여하게 되었습니다. 
@@ -8,3 +9,5 @@
 - 이후로는 **영어**를 수강하고, 블렌더와 JAVA&C언어를 독학할 예정
 ***
 **인생사 새옹지마**라는 말이 있습니다. 그렇다면 오늘 이 순간 최선을 다하고, 불행을 대비하는 것이 최선이라 생각합니다. 항상 긍정적이고 겸손한 자세로 나아가겠습니다. 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8f9ed1,100:d4938b&_&height=200&section=footer)
