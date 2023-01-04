@@ -10,9 +10,6 @@
 - 이후로는 **영어**를 수강하고, **JAVA&C언어**를 독학할 예정
 - **작곡**, **블렌더** 독학
 ***
-<<<<<<< HEAD
-**인생사 새옹지마**라는 말이 있습니다. 그렇다면 오늘 이 순간 최선을 다하고, 불행을 대비하는 것이 최선이라 생각합니다. 항상 긍정적이고 겸손한 자세로 나아가겠습니다. 
-=======
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=atumes)](https://solved.ac/atumes/)
 >>>>>>> eb638c09af226d0c4d4f8723ed7de74926a55ca8
