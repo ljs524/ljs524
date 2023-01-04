@@ -11,6 +11,4 @@
 
 ## 🚩 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=atumes)](https://solved.ac/atumes/)
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8f9ed1,100:d4938b&_&height=200&section=footer)
