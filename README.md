@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8f9ed1,100:d4938b&_&height=200&section=header)
 
-# Hi, I`m Jeongseon Lee.
+# Ｈｉ， Ｉ`ｍ Ｊｅｏｎｇｓｅｏｎ Ｌｅｅ．
 만화를 전공하고 디자인 실무를 했습니다. 개발자가 적성에 맞을 것 같아 주변 개발자 지인들에게 자문을 구하고, **KDT 과정**에 참여하게 되었습니다. 
 
 # 목표
