@@ -10,4 +10,6 @@
 ***
 **인생사 새옹지마**라는 말이 있습니다. 그렇다면 오늘 이 순간 최선을 다하고, 불행을 대비하는 것이 최선이라 생각합니다. 항상 긍정적이고 겸손한 자세로 나아가겠습니다. 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=atumes)](https://solved.ac/atumes/)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8f9ed1,100:d4938b&_&height=200&section=footer)
