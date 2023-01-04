@@ -7,7 +7,8 @@
 # 𝐁𝐮𝐜𝐤𝐞𝐭 𝐋𝐢𝐬𝐭
 - 6개월 동안 **Python**을 열심히 공부하기
 - 기존의 일러스트&디자인 능력을 활용해 **간단한 게임**을 만들기
-- 이후로는 **영어**를 수강하고, **블렌더**와 **JAVA&C언어**를 독학할 예정
+- 이후로는 **영어**를 수강하고, **JAVA&C언어**를 독학할 예정
+- **작곡**, **블렌더** 독학
 ***
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=atumes)](https://solved.ac/atumes/)
